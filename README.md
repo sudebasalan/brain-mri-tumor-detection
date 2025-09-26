@@ -45,7 +45,6 @@ Model eğitimi sonucunda elde edilen performans:
 ## 📂 Ekler
 - *Eigen-CAM görselleştirme* ile modelin MRI görüntülerinde odaklandığı bölgeler incelenmiştir.  
 - Proje Kaggle üzerinde GPU desteği ile çalıştırılmıştır.  
-- İsteğe bağlı olarak, TensorBoard veya Weights & Biases ile model izleme yapılabilir.  
 
 ---
 
